@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder-repo",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.6.0",
+    "npm": "6.9.0"
+  },
+  "description": "repository for friend finder app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saulperez37/Friend-Finder-Repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saulperez37/Friend-Finder-Repo/issues"
+  },
+  "homepage": "https://github.com/saulperez37/Friend-Finder-Repo#readme"
+}
