@@ -8,7 +8,7 @@
   "description": "repository for friend finder app",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7"
   },
   "devDependencies": {},
